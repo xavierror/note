@@ -1,0 +1,24 @@
+id: a41dfcf5eaab4d7b9761818cb8e8ecf3
+parent_id: efb69c6b5b244813905569054460cb42
+created_time: 
+updated_time: 2021-06-15T03:27:38.283Z
+is_conflict: 
+latitude: 
+longitude: 
+altitude: 
+author: 
+source_url: 
+is_todo: 
+todo_due: 
+todo_completed: 
+source: 
+source_application: 
+application_data: 
+order: 
+user_created_time: 
+user_updated_time: 
+encryption_cipher_text: JED01000022051d8cd828f881476fb34ee4cd649ec299000538{"iv":"PkLXAY1WkDzy/DXWmySx3w==","v":1,"iter":101,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"jPoCf/1t+AM=","ct":"mnCd/8IRApO32PMAlTsAYPa3KlV8VymRgRSndKn8OoGcGUdZqiKpWS8iiAj2MUJH2dybMydQv/DIXKPf1O1264jD8istg+q9PUFSa9z4mGbW2APJ/h6NMp1VoA2lkyQCAit9tpM9QldjhTENB9Pl2Qxpb0e79uqPY835IRTE9eE702z/GvcyBF2vaj0wPQ+6sMInItGR2DiAcbFjCmYrYw0Z+wNG2lFLfZ/Oe1vqdnuPA3kbWsG78RXFOtFgo0erdX0x2XBo9PkVStBrDDcnOxNZrYjsAb4ovquV7c0LlD469bt28YZD/TwU48ktTVtFI4/X/nIjtbwl2nD9wTNRB6eyBQMnL6NvKKsS5ekHpc2UAELtN0NUAY+6fO2Umj2y0apbSQMLBchtfvbyOAGMns4etQ4w212LiijIRVBT+8JHazg662W+pOF+vCNtKzOWFeHTJZU1R1xHD98zZ/8G06SuzpR+zYJ3+GJ6S3P2jjdumUQc7T+9b/d2GZaHpwWK0Ti1sakkK/KY3PaLwTzkP0Dx9Cqfm/04HzHFT56T2B26KFDyt3hlYDCeNxXXUHXtTx9/TYNj5ZoSdWp8mxr5CTrboD2TqQVyI5OdXwYYsxz/Uwg4Rni0y0IuGIneFD5L382bSJJTcHTaG8qrrOx+FRajjFLqJrVp7J1bXseufBPVw6leKaxkkTYufHpMZC954DrKbb9DJFTmlnUSOPXYvNKJiPE7dihS20CzpQDYwV1heXBnUerqfAkI3ggNBjg1W1dkbB+wEwMnzSnvDbwjyV8vo+XC9m6j2kZdbyKe06vWnkt2LriShr6fljhwA3F+jXz+2FuIrHS6J2uTTdEthoRfj2hiHZTcZopUaj9DaxwWS3vFpgwa7GIfxx64Iz+o0ufIxZrCIibbnUySmyvBhpceQbKyjJZaQzqpmctvNNDq8GAcSg1tpQNxgcIYX2I1Z3yhYrohfUOdEW36dSA0A5f/2WZXpGLcLOhRykMGTFjHmU9MaafyDtw4SCmYnLuq/YIAB133mdKoYmS7Qxuvk4dyT1yG7AireOxVF3eATtjV8d5tGnfE04+ADxgAdwePr4nzMdvcrFIJxyvKfUYJw3I4j2MsZ25p4vqipRV+9vFMgr7dcjtCDP8h9IbGO8tOnGew8WndBxzxflFJQr5nubYM1qPGYOLNMoUaO9e1/GddmNs="}
+encryption_applied: 1
+markup_language: 
+is_shared: 
+type_: 1
